@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This project is a github pages webpage outlining the portfolio of completed assignments  during the MIT xPro Professional Certificate in Coding: Fullstack development with MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbonazzoli/mbonazzoli.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbonazzoli/mbonazzoli.github.io/issues"
+  },
+  "homepage": "https://github.com/mbonazzoli/mbonazzoli.github.io#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
