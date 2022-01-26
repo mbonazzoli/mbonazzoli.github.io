@@ -40,9 +40,16 @@ img {
   height: 100%
 }
 
+.inner-link {
+  font-size: .75em;
+  text-decoration: none;
+  color: black
+}
 .inner-link:hover {
   cursor: pointer;
+  color: lightskyblue;
 }
+
 /*
  * Grid layouts
  */
